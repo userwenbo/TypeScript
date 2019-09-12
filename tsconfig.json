@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "noImplicitAny": true,
+    "module": "amd",
+    "removeComments": false,
+    "sourceMap": false,
+    "outDir": "js" 
+  }
+}
